@@ -1,6 +1,3 @@
-![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat)
-![Language](https://img.shields.io/badge/Language-Objective----C-yellowgreen.svg)
-![Library](https://img.shields.io/badge/Library-%20Innovative-orange.svg)
 
 <sub>Login Form UI for iPhone</sub>
 -
