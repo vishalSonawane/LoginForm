@@ -11,6 +11,6 @@
 | ------------- |:-------------:|
 | ![ScreenShot](https://raw.githubusercontent.com/vishalSonawane/LoginForm/master/LoginForm/screenshot1.png)|![ScreenShot](https://raw.githubusercontent.com/vishalSonawane/LoginForm/master/LoginForm/screenshot2.png)|
 
-<sub>Liecense</sub>
+<sub>License</sub>
 -
-Included Apache 2.0 Liecense
+Included Apache 2.0 License
