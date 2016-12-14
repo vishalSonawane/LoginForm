@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		B06CDBFF1E0138BC00D528D0 /* TextFieldValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = B06CDBFE1E0138BC00D528D0 /* TextFieldValidator.m */; };
+		B06CDC051E01508100D528D0 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = B06CDC031E01508100D528D0 /* screenshot1.png */; };
+		B06CDC061E01508100D528D0 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = B06CDC041E01508100D528D0 /* screenshot2.png */; };
 		B0802A1B1DFE9E19000517D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0802A1A1DFE9E19000517D7 /* AppDelegate.swift */; };
 		B0802A201DFE9E19000517D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0802A1E1DFE9E19000517D7 /* Main.storyboard */; };
 		B0802A221DFE9E19000517D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0802A211DFE9E19000517D7 /* Assets.xcassets */; };
@@ -24,6 +26,8 @@
 		B06CDBFD1E0138BC00D528D0 /* TextFieldValidator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldValidator.h; sourceTree = "<group>"; };
 		B06CDBFE1E0138BC00D528D0 /* TextFieldValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextFieldValidator.m; sourceTree = "<group>"; };
 		B06CDC021E013DF400D528D0 /* LoginForm-BridgingHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LoginForm-BridgingHeader.h"; sourceTree = "<group>"; };
+		B06CDC031E01508100D528D0 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		B06CDC041E01508100D528D0 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
 		B0802A171DFE9E19000517D7 /* LoginForm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginForm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0802A1A1DFE9E19000517D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0802A1F1DFE9E19000517D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -81,6 +85,8 @@
 		B0802A191DFE9E19000517D7 /* LoginForm */ = {
 			isa = PBXGroup;
 			children = (
+				B06CDC031E01508100D528D0 /* screenshot1.png */,
+				B06CDC041E01508100D528D0 /* screenshot2.png */,
 				B0802A301DFEB2B5000517D7 /* ThirdPartyLibraries */,
 				B0802A2C1DFE9EDF000517D7 /* LoginViewController.swift */,
 				B0802A1A1DFE9E19000517D7 /* AppDelegate.swift */,
@@ -178,7 +184,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0802A251DFE9E19000517D7 /* LaunchScreen.storyboard in Resources */,
+				B06CDC051E01508100D528D0 /* screenshot1.png in Resources */,
 				B0802A221DFE9E19000517D7 /* Assets.xcassets in Resources */,
+				B06CDC061E01508100D528D0 /* screenshot2.png in Resources */,
 				B0802A201DFE9E19000517D7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
