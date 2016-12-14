@@ -6,6 +6,7 @@
 * This a simple Login Form UI for iPhone Applications.
 * It supports only portrait mode.
 * Email and password validations are applied.
+* All IBOutlets and IBActions are taken, you just have to write your logic.
 
 <sub>Sample Screenshots</sub>
 -
